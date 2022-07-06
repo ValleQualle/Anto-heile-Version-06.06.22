@@ -29,6 +29,8 @@ TagManager:
   - SecretWallCollider
   - Tutorial
   - Speech
+  - Lv1 Trig Speech
+  - Lv2 Trig Speech
   layers:
   - Default
   - TransparentFX
