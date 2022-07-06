@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Fernbedienung
+  - CaseHoldBox
+  - Player2
+  - Inventory
+  - Undefined
+  - Laser
+  - Panel
+  - "Schl\xFCssel"
+  - Radio
+  - Kabel
+  - Secret
+  - SecretDetector
+  - SecretWall
+  - JumpKrater
+  - Player Parent
+  - Weiter Button
+  - Sound Manager
+  - Next Level Box
+  - DeathZone
+  - Activation Zone
+  - SecretWallTrigger
+  - SecretWallCollider
+  - Tutorial
+  - Speech
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - HoldBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG_Picture
+    uniqueID: 4180679547
+    locked: 0
+  - name: Background
+    uniqueID: 1745656677
+    locked: 0
+  - name: Background Rim
+    uniqueID: 2227990267
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1068647621
+    locked: 0
+  - name: 'Player '
+    uniqueID: 116502627
+    locked: 0
