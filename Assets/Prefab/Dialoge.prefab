@@ -1422,7 +1422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"player","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"jumpCraterSpeech","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"TippTextCrater","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"textFrame","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"speech1","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"speech
@@ -4777,8 +4777,8 @@ GameObject:
   - component: {fileID: 369955891866972875}
   - component: {fileID: 6948090059733842345}
   m_Layer: 0
-  m_Name: Lv1 Dia Trigger
-  m_TagString: Untagged
+  m_Name: Lv1 Trig Speech
+  m_TagString: Lv1 Trig Speech
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5414,7 +5414,7 @@ GameObject:
   - component: {fileID: 7075272327239209391}
   - component: {fileID: 7163130661581195628}
   m_Layer: 0
-  m_Name: Lv2 Dia Trigger
+  m_Name: Lv2  Trig Speech
   m_TagString: Lv2 Trig Speech
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5473,7 +5473,7 @@ GameObject:
   - component: {fileID: 1602085874097955834}
   - component: {fileID: 719519939324968955}
   m_Layer: 0
-  m_Name: 'Pulver '
+  m_Name: 'Lvl 2 Pulver '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
