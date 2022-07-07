@@ -31,6 +31,7 @@ TagManager:
   - Speech
   - Lv1 Trig Speech
   - Lv2 Trig Speech
+  - Case Find
   layers:
   - Default
   - TransparentFX
