@@ -74,8 +74,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1068647621
-  m_SortingLayer: 1
+  m_SortingLayerID: 116502627
+  m_SortingLayer: 2
   m_SortingOrder: 4
   m_Sprite: {fileID: 250977232, guid: 9c48d317a3041834a8df3bbbb8693f6c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -258,7 +258,6 @@ GameObject:
   - component: {fileID: 691555272248884372}
   - component: {fileID: 435898778468940365}
   - component: {fileID: 5752577305677338604}
-  - component: {fileID: 3971022956078002327}
   m_Layer: 0
   m_Name: Anto
   m_TagString: Player
@@ -568,15 +567,3 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &3971022956078002327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6813014823396784034}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
